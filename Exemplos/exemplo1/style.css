@@ -1,0 +1,49 @@
+.caixa1{
+    background-color: blueviolet;
+    color: white;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px;
+}
+.displayb{
+    background-color: aqua;
+    margin-top: 10px;
+}
+.spain{
+    background-color: rgb(93, 93, 224);
+}
+.caixa{
+    background-color: antiquewhite;
+    border: 5px solid bisque;
+    margin: 20px 0 0 0;
+    padding: 10px;
+}
+.area-flex{
+    margin-top: 10px;
+    display: flex;
+    border: 3px dashed powderblue;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    flex-direction: column;
+}
+.item{
+    background-color: cornflowerblue;
+    border: 1px  solid blueviolet;
+    padding: 20px;
+    margin-left: 5px;
+}
+.cartao{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr) ;
+    margin-top: 10px;
+}
+.item-cartao{
+    background-color: beige;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}

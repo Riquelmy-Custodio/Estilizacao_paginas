@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    padding: 20px;
+    color: white;
+}
+.cabecalho a{
+    color: white;
+    text-decoration: none;
+}
